@@ -1,3 +1,3 @@
-#Gulp workflow
+# Gulp workflow
 
 Gulp with Jekyll
