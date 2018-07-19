@@ -1,5 +1,5 @@
 {
-  "name": "Login & Signup",
+  "name": "login-signup",
   "version": "1.0.0",
   "description": "Login & signup form built with Vanilla JS",
   "main": "gulpfile.js",
