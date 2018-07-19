@@ -1,2 +1,2 @@
 # Login-Signup
-Tabbed login &amp; signup form built with vanilla JS
+Tabbed login &amp; signup form built with Vanilla JS
